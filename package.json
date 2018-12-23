@@ -1,0 +1,21 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "start": "node ./app/app.js",
+    "test": "mocha",
+    "debug": "nodemon --inspect ./app/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
