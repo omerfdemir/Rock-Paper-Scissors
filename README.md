@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game by using Node.js Console
 
-This is a basic Rock Paper Scissors game which you can play versus with computer. The game has 3 rounds. If you win more rounds than computer you win the game.
+This is a basic Rock Paper Scissors game which you can play versus with computer. The game has 3 rounds. If you win more rounds than computer you win the game. If the numbers are equal game ends as a tie.
 
 ## Getting Started
 Clone the repository
@@ -18,8 +18,6 @@ Install the necessary packages by typing: ````npm install```` in the directory.
 
 Run the game on the console by typing: ```npm start```
 And it will ask you to select Rock-Paper or Scissors.
-
-
 
 
 
